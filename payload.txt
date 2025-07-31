@@ -1,6 +1,5 @@
 
-REM Rick Roll by Thomas McNeela
-REM https://github.com/tommym89/Rubber-Ducky_RickRoll
+REM https://github.com/trinetra-1337/USB-rubber_ducky-rickroll
 DELAY 8000
 GUI r
 DELAY 200
